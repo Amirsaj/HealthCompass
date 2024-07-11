@@ -4,7 +4,8 @@ A Health Assistant Chat Bot
 
 ## Demo Video
 
-[![Demo Video](https://github.com/msdkhani/Chatbot-symptoms/assets/76404542/11b23dcb-8b12-431b-9178-2f349455b28a)](https://www.youtube.com/watch?v=aIOMfogL9_U)
+[![Demo Video](https://img.youtube.com/vi/aIOMfogL9_U/0.jpg)](https://www.youtube.com/watch?v=aIOMfogL9_U)
+
 
 ## Table of Contents
 - [Background](#background)
